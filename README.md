@@ -1,0 +1,1 @@
+# Active_admin_example
